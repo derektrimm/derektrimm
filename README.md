@@ -8,3 +8,4 @@ I build software, games, and the tooling to ship them.
 - [windows-terminal-glowup](https://github.com/derektrimm/windows-terminal-glowup) — one script that turns stock Windows Terminal + PowerShell into something you enjoy looking at: themed prompt, Nerd Font, modern CLI tools.
 
 **Now** — building [t3.codes](https://t3.codes).
+
