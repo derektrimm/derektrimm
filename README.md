@@ -4,8 +4,6 @@ I build software, games, and the tooling to ship them.
 
 **Open source**
 
-- [merge-coordinator](https://github.com/derektrimm/merge-coordinator) — a 24/7 GitHub Actions coordinator that lands your PRs automatically. Risky paths merge one at a time through serial lanes, stale PRs re-validate first, and it can never bypass your required checks.
-- [windows-terminal-glowup](https://github.com/derektrimm/windows-terminal-glowup) — one script that turns stock Windows Terminal + PowerShell into something you enjoy looking at: themed prompt, Nerd Font, modern CLI tools.
+- [demo-film-kit](https://github.com/derektrimm/demo-film-kit) - make a demo film of any project from the real thing: a trailer from the game's own running build, a product on a studio stage, or a walkthrough of real tools. One story file drives the cut, the captions, the score and the mix.
 
 **Now** — building [t3.codes](https://t3.codes).
-
